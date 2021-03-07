@@ -1,5 +1,5 @@
 #! /bin/bash
-printf "Check Out My Channel While Waiting- https://youtu.be/VeO22kIvZOQ" >&2
+
 {
 sudo useradd -m mankit
 sudo adduser mankit sudo
